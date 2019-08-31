@@ -1,0 +1,6 @@
+14:45:44 **** Clean-only build of configuration Nios II for project memory_test_s ****
+make clean 
+[memory_test_s clean complete]
+
+14:45:44 Build Finished (took 383ms)
+

@@ -1,0 +1,6 @@
+14:45:58 **** Clean-only build of configuration Nios II for project FreeRTOS4Lemonlite ****
+make clean 
+[FreeRTOS4Lemonlite clean complete]
+
+14:45:59 Build Finished (took 381ms)
+

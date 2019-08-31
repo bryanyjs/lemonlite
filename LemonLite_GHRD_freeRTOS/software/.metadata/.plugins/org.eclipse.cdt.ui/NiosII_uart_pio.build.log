@@ -1,9 +1,0 @@
-14:27:50 **** Incremental Build of configuration Nios II for project NiosII_uart_pio ****
-make all 
-Info: Building ../NiosII_uart_pio_bsp/
-C:/intelFPGA/16.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../NiosII_uart_pio_bsp/
-[BSP build complete]
-[NiosII_uart_pio build complete]
-
-14:27:52 Build Finished (took 1s.836ms)
-

@@ -1,0 +1,6 @@
+02:51:09 **** Clean-only build of configuration Nios II for project HelloWorld_SDRAM_FULL ****
+make clean 
+[HelloWorld_SDRAM_FULL clean complete]
+
+02:51:10 Build Finished (took 381ms)
+
